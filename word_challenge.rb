@@ -1,7 +1,6 @@
 # Hung Auduong
 # 1/18/2018
 # Longest Concatenated Word
-# Aspera Coding Challenge
 #
 # This program reads a file of ~ 173k list of words and finds the longest
 # and second longest that is entirely made up of other words within the file.
